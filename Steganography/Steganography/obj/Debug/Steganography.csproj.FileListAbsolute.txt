@@ -1,0 +1,13 @@
+C:\Users\zajar\source\repos\Steganography\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\zajar\source\repos\Steganography\Steganography\bin\Debug\Steganography.exe
+C:\Users\zajar\source\repos\Steganography\Steganography\bin\Debug\Steganography.pdb
+C:\Users\zajar\source\repos\Steganography\Steganography\obj\Debug\Steganography.csprojAssemblyReference.cache
+C:\Users\zajar\source\repos\Steganography\Steganography\obj\Debug\Steganography.MainMenu.resources
+C:\Users\zajar\source\repos\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+C:\Users\zajar\source\repos\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\zajar\source\repos\Steganography\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\zajar\source\repos\Steganography\Steganography\obj\Debug\Steganography.exe
+C:\Users\zajar\source\repos\Steganography\Steganography\obj\Debug\Steganography.pdb
+C:\Users\zajar\source\repos\Steganography\Steganography\bin\Debug\SteganographyLib.dll
+C:\Users\zajar\source\repos\Steganography\Steganography\bin\Debug\SteganographyLib.pdb
+C:\Users\zajar\source\repos\Steganography\Steganography\obj\Debug\Steganography.csproj.CopyComplete

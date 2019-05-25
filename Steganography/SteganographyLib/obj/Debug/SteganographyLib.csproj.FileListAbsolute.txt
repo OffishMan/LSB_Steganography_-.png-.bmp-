@@ -1,0 +1,6 @@
+C:\Users\zajar\source\repos\Steganography\SteganographyLib\bin\Debug\SteganographyLib.dll
+C:\Users\zajar\source\repos\Steganography\SteganographyLib\bin\Debug\SteganographyLib.pdb
+C:\Users\zajar\source\repos\Steganography\SteganographyLib\obj\Debug\SteganographyLib.csprojAssemblyReference.cache
+C:\Users\zajar\source\repos\Steganography\SteganographyLib\obj\Debug\SteganographyLib.csproj.CoreCompileInputs.cache
+C:\Users\zajar\source\repos\Steganography\SteganographyLib\obj\Debug\SteganographyLib.dll
+C:\Users\zajar\source\repos\Steganography\SteganographyLib\obj\Debug\SteganographyLib.pdb
